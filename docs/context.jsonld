@@ -1,6 +1,6 @@
 {
   "@context": {
-    "ex": "https://.github.io/./context.jsonld#",
+    "ex": "https://my-domain.github.io/my-vocab/context.jsonld#",
     "Person": "ex:Person",
     "name": "ex:name",
     "birthDate": {
