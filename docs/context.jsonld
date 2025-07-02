@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "ex": "https://.github.io/./context.jsonld#",
+    "Person": "ex:Person",
+    "name": "ex:name",
+    "birthDate": {
+      "@id": "ex:birthDate",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    }
+  }
+}
